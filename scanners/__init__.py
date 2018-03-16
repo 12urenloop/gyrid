@@ -1,1 +1,1 @@
-/usr/share/pyshared/gyrid/scanners/__init__.py
+pass
