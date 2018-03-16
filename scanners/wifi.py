@@ -1,0 +1,1 @@
+/usr/share/pyshared/gyrid/scanners/wifi.py

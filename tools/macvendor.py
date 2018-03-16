@@ -1,0 +1,1 @@
+/usr/share/pyshared/gyrid/tools/macvendor.py
